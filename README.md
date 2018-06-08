@@ -26,9 +26,9 @@ It includes sample input and output (*images with applied Smudgy effect*) images
 
 Browse image and apply Object Detection Filter
 
-###Samples
+### Samples
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/obd1a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/obd1a.jpg)
 
 **Original**
 
@@ -36,7 +36,7 @@ Browse image and apply Object Detection Filter
 
 **Applied Filter**
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/obd2a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/obd2a.jpg)
 
 **Original**
 
@@ -54,7 +54,7 @@ Browse image and apply Grayscale Bakckground Filter
 
 ###Samples
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/gra1a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/gra1a.jpg)
 
 **Original**
 
@@ -62,7 +62,7 @@ Browse image and apply Grayscale Bakckground Filter
 
 **Applied Filter**
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/gra2a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/gra2a.jpg)
 
 **Original**
 
@@ -80,7 +80,7 @@ Browse image and apply Eye Filter
 
 ###Samples
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/eye1a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/eye1a.jpg)
 
 **Original**
 
@@ -88,7 +88,7 @@ Browse image and apply Eye Filter
 
 **Applied Filter**
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/eye2a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/eye2a.jpg)
 
 **Original**
 
@@ -106,7 +106,7 @@ Browse image and apply Color Filter
 
 ###Samples
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/col1a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/col1a.jpg)
 
 **Original**
 
@@ -114,7 +114,7 @@ Browse image and apply Color Filter
 
 **Applied Filter**
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/col2a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/col2a.jpg)
 
 **Original**
 
@@ -132,7 +132,7 @@ Browse image and apply People Detection Filter
 
 ###Samples
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/peo1a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/peo1a.jpg)
 
 **Original**
 
@@ -140,7 +140,7 @@ Browse image and apply People Detection Filter
 
 **Applied Filter**
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/peo2a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/peo2a.jpg)
 
 **Original**
 
@@ -158,7 +158,7 @@ Browse image and apply Smudgy Filter
 
 ###Samples
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/smu1a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/smu1a.jpg)
 
 **Original**
 
@@ -166,7 +166,7 @@ Browse image and apply Smudgy Filter
 
 **Applied Filter**
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/smu2a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/smu2a.jpg)
 
 **Original**
 
@@ -184,11 +184,11 @@ Browse image, background and apply Submerged Image Filter
 
 ###Samples
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/sub1a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/sub1a.jpg)
 
 **Original**
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/sub1b.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/sub1b.jpg)
 
 **Background**
 
@@ -196,11 +196,11 @@ Browse image, background and apply Submerged Image Filter
 
 **Applied Filter**
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/sub2a.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/sub2a.jpg)
 
 **Original**
 
-![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/sub2b.png)
+![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/sub2b.jpg)
 
 **Background**
 
