@@ -52,7 +52,7 @@ Browse image and apply Object Detection Filter
 
 Browse image and apply Grayscale Bakckground Filter
 
-###Samples
+### Samples
 
 ![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/gra1a.jpg)
 
@@ -104,7 +104,7 @@ Browse image and apply Eye Filter
 
 Browse image and apply Color Filter
 
-###Samples
+### Samples
 
 ![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/col1a.jpg)
 
@@ -130,7 +130,7 @@ Browse image and apply Color Filter
 
 Browse image and apply People Detection Filter
 
-###Samples
+### Samples
 
 ![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/peo1a.jpg)
 
@@ -156,7 +156,7 @@ Browse image and apply People Detection Filter
 
 Browse image and apply Smudgy Filter
 
-###Samples
+### Samples
 
 ![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/smu1a.jpg)
 
@@ -182,7 +182,7 @@ Browse image and apply Smudgy Filter
 
 Browse image, background and apply Submerged Image Filter
 
-###Samples
+### Samples
 
 ![Image alt attribute](https://github.com/jass-singh/IIGDIP/blob/master/Screen%20Shots/sub1a.jpg)
 
