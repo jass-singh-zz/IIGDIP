@@ -9,6 +9,13 @@ Image Improvisation using Gradient Descent and Image Processing
 
 This repository contains code for GUI and screenshots reagarding working of project.
 It includes sample input and output (*images with applied Smudgy effect*) images.
+For smudgy filter model is trained using gradient descent and feature scaling.
+Improved accuracy of previously used model(*for ODSGD*)
+Project ODSGD Link 
+[Click here to access project ODSGD](https://github.com/jass-singh/ODSGD)
+Previous Accurcay - 80.2173%
+Current Accuracy achieved - 89.17%
+
 
 ## Types of filters implemented :
 1. Object Detection (*Object_Detection_Module.m*)
@@ -16,7 +23,7 @@ It includes sample input and output (*images with applied Smudgy effect*) images
 3. Eye Filter (*Eye_Filter_Module.m*)
 4. Color Filter (*Color_Detection_Module.m*)
 5. People Detection (*Person_Detect_Module.m*)
-6. Smudgy filter (*Smudgy_Module.m*)
+6. Smudgy filter (*Smudgy_Module.m*) 
 7. Submerged Image (*Submerged_Module.m*)
 
 ## Object Detection Filter
