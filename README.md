@@ -3,17 +3,25 @@
 Image Improvisation using Gradient Descent and Image Processing 
 
 *Image improvisation is strenuous both on front of software and human.*
+
 *This project implements image improvisation methods such as applying the smudging effect (similar to DSLR effect), gray scaling the background etc.*
+
 *Using the image processing concepts several image filters have been proposed which would provide user with additional functionality of enhanced images.*
+
 *Also providing efficient results without indulging user.*
 
 This repository contains code for GUI and screenshots reagarding working of project.
+
 It includes sample input and output (*images with applied Smudgy effect*) images.
+
 For smudgy filter model is trained using gradient descent and feature scaling.
+
 Improved accuracy of previously used model(*for ODSGD*)
-Project ODSGD Link 
-[Click here to access project ODSGD](https://github.com/jass-singh/ODSGD)
+ 
+([Click here to access project ODSGD](https://github.com/jass-singh/ODSGD))
+
 Previous Accurcay - 80.2173%
+
 Current Accuracy achieved - 89.17%
 
 
